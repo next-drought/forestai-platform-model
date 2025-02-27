@@ -1,0 +1,2 @@
+This is the oak wilt distribution data downloaded from the Source EDD Maps. 2022 (Early Detection & Distribution Mapping System. The University of Georgia - Center for Invasive Species and Ecosystem Health. Available online at http://www.eddmaps.org/). 
+We accessed the data on October 13, 2024 at https://www.eddmaps.org/distribution/uscounty.cfm?sub=86451.  The data covered the observation from 1987 to 2024 containing	17,456 georeferenced points. 
