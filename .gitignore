@@ -1,0 +1,16 @@
+# Ignore everything except specific files
+
+# Ignore common files
+oakwilt_env
+.ipynb_checkpoints
+# Ignore shapefile and related GIS files
+oak_wilt_clean.shp
+oak_wilt_clean.shx
+oak_wilt_clean.dbf
+oak_wilt_clean.prj
+oak_wilt_clean.cpg
+
+.vscode/
+Mask_RCNN/
+Mask_RCNN_O/
+TF2-Mask_RCNN/
